@@ -1,3 +1,5 @@
+https://github.com/JoeAvery-Ruiz/Trivia-Game
+
 # Trivia-Game
 My app is called Drinking Trivia, it is a dual player/team game where two people or groups will face-off to answer trivia questions before their opponent or the timer runs out. If a player/team loses the round or neither player/team answers correctly,  a random punishment will be assigned to them, they will have to accept their punishment of either taking a sip or chug of an “adult beverage” or even worse a shot of the winner's choice. If there is no winner then each player/team can choose the drink themselves. 
 Technologies used:

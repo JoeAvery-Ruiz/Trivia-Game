@@ -9,14 +9,16 @@
   .a{
       color:rgb(0, 255, 221);
     }
-
+    #seconds{
+        size: 7000px;
+    }
    
   #timer{
       color:rgb(0, 255, 221);
-      align-items: right;
-      justify-content: right;
+      align-items: center;
+      justify-content: center;
       display: flex;
-      size:auto;
+    s
   }
   .button{
       color:rgb(0, 255, 221);
